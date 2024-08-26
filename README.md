@@ -34,7 +34,7 @@ ros2 launch urdf_tutorial_ros2 display_urdf.launch.py
 
 ## check URDF
 
-check_urdf 05-visual.urdf.
+check_urdf 05-visual.urdf
 
 ros2 run xacro xacro 08-macroed.urdf.xacro > 08-macroed.urdf
 
