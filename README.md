@@ -1,6 +1,6 @@
 # urdf_tutorial_ros2
 
-ros2 foxy urdf_tutorial
+## ROS2 foxy urdf_tutorial 입니다. (교재 참조)
 
 ## dependency 설치
 
