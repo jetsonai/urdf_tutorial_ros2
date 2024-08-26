@@ -26,4 +26,3 @@ source ./install/setup.bash
 
 ros2 launch urdf_tutorial_ros2 display_urdf.launch.py 
 
-![image](https://github.com/user-attachments/assets/6631bc2b-8e00-4fc9-9ecf-51943bace958)
