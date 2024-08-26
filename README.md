@@ -20,9 +20,25 @@ git clone https://github.com/jetsonai/urdf_tutorial_ros2
 
 cd ..
 
+
 colcon build --symlink-install
 
 source ./install/setup.bash
 
 ros2 launch urdf_tutorial_ros2 display_urdf.launch.py 
+
+
+## 튜토리얼에 따라 실습 진행
+
+
+
+## check URDF
+
+check_urdf 05-visual.urdf.
+
+ros2 run xacro xacro 08-macroed.urdf.xacro > 08-macroed.urdf
+
+check_urdf 08-macroed.urdf
+
+
 
