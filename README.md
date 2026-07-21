@@ -4,9 +4,9 @@
 
 ## dependency 설치
 
-sudo apt install ros-foxy-joint-state-publisher
+sudo apt install ros-humble-joint-state-publisher
 
-sudo apt install ros-foxy-joint-state-publisher-gui
+sudo apt install ros-humble-joint-state-publisher-gui
 
 ## urdf tutorial workspace 
 
